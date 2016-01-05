@@ -42,3 +42,11 @@ Excellent post about architecting apps with MVVM and ReactiveCocoa.
 ## Maps
 ##### Displaying large amounts of data on a map
 - https://robots.thoughtbot.com/how-to-handle-large-amounts-of-data-on-maps
+
+## Press Kit
+
+### Medium Press Release
+https://medium.com/swlh/the-medium-com-hosted-press-kit-how-to-make-a-blogger-s-life-easier-10962dc3f04e#.sefyjnqyn
+
+##### Example Medium Press Release Post
+https://medium.com/@robjama/next-keyboard-the-perfect-keyboard-for-iphone-media-kit-7363fbd85754#.c2x58ti0n
