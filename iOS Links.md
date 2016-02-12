@@ -13,6 +13,10 @@
 Perfect.
 - http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 
+### App Signing
+If you want to be a serious iOS developer you need to understand the process of signing apps. This is a good place to start.
+- https://www.objc.io/issues/17-security/inside-code-signing/
+
 ## Project Setup
 ### Automation
 - [fastlane.tools](fastlane.tools)
