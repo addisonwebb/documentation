@@ -25,7 +25,7 @@ iOS X.x
 Tool | Version
 ---- | -------
 Xcode | X.x
-[mogenerator](http://rentzsch.github.io/mogenerator/) | 1.28
+[mogenerator](http://rentzsch.github.io/mogenerator/) | 1.29
 [cocoapods](https://cocoapods.org) | N/A
 [snapshot](https://github.com/KrauseFx/snapshot) | 0.9.2
 
@@ -54,3 +54,7 @@ Brand Color Green - `19F340`
 ### Auto Generated Screenshots
 [Snapshot](https://github.com/KrauseFx/snapshot) is a tool that automatically generates screenshots. To generate screenshots simply run `snapshot` from the project directory. Configurations can be made in the Snapfile. See more information about editing the Snapfile [here](https://github.com/KrauseFx/snapshot#snapfile). 
 
+### Contributors
+- [@developer1]()
+- [@developer2]()
+- [@developer3]()
