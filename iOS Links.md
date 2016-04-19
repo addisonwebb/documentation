@@ -17,6 +17,10 @@ Perfect.
 If you want to be a serious iOS developer you need to understand the process of signing apps. This is a good place to start.
 - https://www.objc.io/issues/17-security/inside-code-signing/
 
+### App Store Review Guidelines
+It is important to stay up-to-date with the App Store review guidelines. Sign up for this newsletter.
+- http://www.appstorereviewguidelineshistory.com
+
 ## Project Setup
 ### Automation
 - [fastlane.tools](fastlane.tools)
