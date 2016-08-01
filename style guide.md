@@ -108,3 +108,6 @@ Imports should be grouped into sections and annotated with comments.
 	#import "childViewController.h"
 	#import "anotherChildViewController.h"
 	
+### Classes
+- One class per file	
+	
