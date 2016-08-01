@@ -8,6 +8,9 @@
 - https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
 - https://google.github.io/styleguide/objcguide.xml
 - http://ashfurrow.com/blog/structuring-modern-objective-c/
+- https://github.com/Alterplay/iOS-Code-Conventions/blob/master/Code%20Conventions.md
+- Cocoa Style for Objective-C by Scott Stevenson ([Part One](http://cocoadevcentral.com/articles/000082.php), [Part 2](http://cocoadevcentral.com/articles/000083.php))
+- https://github.com/RobotsAndPencils/objective-c-style-guide
 
 ### iPhone Resolution Guide
 Perfect.
