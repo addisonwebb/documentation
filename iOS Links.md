@@ -24,6 +24,10 @@ If you want to be a serious iOS developer you need to understand the process of 
 It is important to stay up-to-date with the App Store review guidelines. Sign up for this newsletter.
 - http://www.appstorereviewguidelineshistory.com
 
+### Getting a client's device UDID
+When you want to add a client's device to your developer account you will need their device's UDID. This guide makes it really simple for non-technical people to follow. 🙂
+- http://whatsmyudid.com
+
 ## Design
 ### Promping for App Reviews
 - http://blog.amyworrall.com/post/143888553430/please-rate-my-app
