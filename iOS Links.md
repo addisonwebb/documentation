@@ -62,6 +62,10 @@ Excellent post about architecting apps with MVVM and ReactiveCocoa.
 ##### Displaying large amounts of data on a map
 - https://robots.thoughtbot.com/how-to-handle-large-amounts-of-data-on-maps
 
+## Business
+##### What to do when you get a cease and decist
+- https://jonathanhays.me/2014/06/09/a-brief-guide-to-cease-and-desists-for-indie-developers/
+
 ## Press Kit
 
 ### Medium Press Release
